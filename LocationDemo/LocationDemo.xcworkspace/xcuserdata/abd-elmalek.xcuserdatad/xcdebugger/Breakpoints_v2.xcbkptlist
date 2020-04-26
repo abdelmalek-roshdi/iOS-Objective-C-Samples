@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C7F7012-77B2-4EDC-BF6B-F2FCE3D7D0C8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B30322B-1C68-411E-A4BA-552B2D3306CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LocationDemo/LoginViewController.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "latLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1B30322B-1C68-411E-A4BA-552B2D3306CB - c5345b3199fd3e7a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LoginViewController ageLabel]"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd-elmalek/Desktop/iOS%20Objective%20C/LocationDemo/LocationDemo/LoginViewController.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "1B30322B-1C68-411E-A4BA-552B2D3306CB - f58841b91fe9a078"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LoginViewController setAgeLabel:]"
+                  moduleName = "LocationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abd-elmalek/Desktop/iOS%20Objective%20C/LocationDemo/LocationDemo/LoginViewController.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

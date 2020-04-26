@@ -1,0 +1,6 @@
+framework module Pods_SearchWithTableView {
+  umbrella header "Pods-SearchWithTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
